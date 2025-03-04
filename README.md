@@ -18,6 +18,3 @@ The above files contain raw data that need cleaning to improve clarity. Then the
 3. Dim_product<br>
 4. FactsInternetSales<br>
 5. Dim_territory<br>
-
-![download](https://github.com/user-attachments/assets/5a6d76bb-5cbc-453b-acd2-52e3b4649e8e)
-
